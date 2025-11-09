@@ -1,0 +1,15 @@
+D:\PRN212\PE_SP25\BLL\bin\Debug\net9.0\BLL.deps.json
+D:\PRN212\PE_SP25\BLL\bin\Debug\net9.0\BLL.dll
+D:\PRN212\PE_SP25\BLL\bin\Debug\net9.0\BLL.pdb
+D:\PRN212\PE_SP25\BLL\obj\Debug\net9.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\PE_SP25\BLL\obj\Debug\net9.0\BLL.AssemblyInfoInputs.cache
+D:\PRN212\PE_SP25\BLL\obj\Debug\net9.0\BLL.AssemblyInfo.cs
+D:\PRN212\PE_SP25\BLL\obj\Debug\net9.0\BLL.csproj.CoreCompileInputs.cache
+D:\PRN212\PE_SP25\BLL\obj\Debug\net9.0\BLL.dll
+D:\PRN212\PE_SP25\BLL\obj\Debug\net9.0\refint\BLL.dll
+D:\PRN212\PE_SP25\BLL\obj\Debug\net9.0\BLL.pdb
+D:\PRN212\PE_SP25\BLL\obj\Debug\net9.0\ref\BLL.dll
+D:\PRN212\PE_SP25\BLL\bin\Debug\net9.0\DAL.dll
+D:\PRN212\PE_SP25\BLL\bin\Debug\net9.0\DAL.pdb
+D:\PRN212\PE_SP25\BLL\obj\Debug\net9.0\BLL.csproj.AssemblyReference.cache
+D:\PRN212\PE_SP25\BLL\obj\Debug\net9.0\BLL.csproj.Up2Date
