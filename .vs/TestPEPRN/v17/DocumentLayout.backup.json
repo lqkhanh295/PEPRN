@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\TestPEPRN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|d:\\code\\testpeprn\\testpeprn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|solutionrelative:testpeprn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|d:\\code\\testpeprn\\testpeprn\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|solutionrelative:testpeprn\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9620B46D-DC09-41FE-95DD-6197639CB681}|TestPEPRN.BLL\\TestPEPRN.BLL.csproj|d:\\code\\testpeprn\\testpeprn.bll\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9620B46D-DC09-41FE-95DD-6197639CB681}|TestPEPRN.BLL\\TestPEPRN.BLL.csproj|solutionrelative:testpeprn.bll\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|d:\\code\\testpeprn\\testpeprn.dal\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|solutionrelative:testpeprn.dal\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|d:\\code\\testpeprn\\testpeprn\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|solutionrelative:testpeprn\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|d:\\code\\testpeprn\\testpeprn.dal\\repositories\\airconrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|solutionrelative:testpeprn.dal\\repositories\\airconrepositoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9620B46D-DC09-41FE-95DD-6197639CB681}|TestPEPRN.BLL\\TestPEPRN.BLL.csproj|d:\\code\\testpeprn\\testpeprn.bll\\services\\airconservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9620B46D-DC09-41FE-95DD-6197639CB681}|TestPEPRN.BLL\\TestPEPRN.BLL.csproj|solutionrelative:testpeprn.bll\\services\\airconservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|d:\\code\\testpeprn\\testpeprn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|solutionrelative:testpeprn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|d:\\code\\testpeprn\\testpeprn\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|solutionrelative:testpeprn\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9620B46D-DC09-41FE-95DD-6197639CB681}|TestPEPRN.BLL\\TestPEPRN.BLL.csproj|d:\\code\\testpeprn\\testpeprn.bll\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9620B46D-DC09-41FE-95DD-6197639CB681}|TestPEPRN.BLL\\TestPEPRN.BLL.csproj|solutionrelative:testpeprn.bll\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|d:\\code\\testpeprn\\testpeprn.dal\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|solutionrelative:testpeprn.dal\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|d:\\code\\testpeprn\\testpeprn\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|solutionrelative:testpeprn\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|d:\\code\\testpeprn\\testpeprn.dal\\models\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|solutionrelative:testpeprn.dal\\models\\airconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|d:\\code\\testpeprn\\testpeprn.dal\\models\\airconditionershop2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|solutionrelative:testpeprn.dal\\models\\airconditionershop2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|d:\\code\\testpeprn\\testpeprn.dal\\models\\staffmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|solutionrelative:testpeprn.dal\\models\\staffmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|d:\\code\\testpeprn\\testpeprn\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|solutionrelative:testpeprn\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|d:\\code\\testpeprn\\testpeprn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|solutionrelative:testpeprn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|d:\\code\\testpeprn\\testpeprn\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|solutionrelative:testpeprn\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|d:\\code\\testpeprn\\testpeprn.dal\\testpeprn.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|solutionrelative:testpeprn.dal\\testpeprn.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|d:\\code\\testpeprn\\testpeprn\\testpeprn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|solutionrelative:testpeprn\\testpeprn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|d:\\code\\testpeprn\\testpeprn.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17D0BD2-859A-498D-9462-0FDAEC2178FD}|TestPEPRN.DAL\\TestPEPRN.DAL.csproj|solutionrelative:testpeprn.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|d:\\code\\testpeprn\\testpeprn\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B51DED-056E-4017-A1E1-B90E257BB33B}|TestPEPRN\\TestPEPRN.csproj|solutionrelative:testpeprn\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9620B46D-DC09-41FE-95DD-6197639CB681}|TestPEPRN.BLL\\TestPEPRN.BLL.csproj|d:\\code\\testpeprn\\testpeprn.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9620B46D-DC09-41FE-95DD-6197639CB681}|TestPEPRN.BLL\\TestPEPRN.BLL.csproj|solutionrelative:testpeprn.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "TestPEPRN\\LoginWindow.xaml",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN\\LoginWindow.xaml",
+              "RelativeToolTip": "TestPEPRN\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T17:02:22.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AirConService.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN.BLL\\Services\\AirConService.cs",
+              "RelativeDocumentMoniker": "TestPEPRN.BLL\\Services\\AirConService.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN.BLL\\Services\\AirConService.cs",
+              "RelativeToolTip": "TestPEPRN.BLL\\Services\\AirConService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T08:00:02.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AirConRepositoty.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\Repositories\\AirConRepositoty.cs",
+              "RelativeDocumentMoniker": "TestPEPRN.DAL\\Repositories\\AirConRepositoty.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\Repositories\\AirConRepositoty.cs",
+              "RelativeToolTip": "TestPEPRN.DAL\\Repositories\\AirConRepositoty.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:53:07.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TestPEPRN\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TestPEPRN\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:37:00.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TestPEPRN\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "TestPEPRN\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:08:54.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AirConditioner.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\Models\\AirConditioner.cs",
+              "RelativeDocumentMoniker": "TestPEPRN.DAL\\Models\\AirConditioner.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\Models\\AirConditioner.cs",
+              "RelativeToolTip": "TestPEPRN.DAL\\Models\\AirConditioner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:04:57.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TestPEPRN\\MainWindow.xaml",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN\\MainWindow.xaml",
+              "RelativeToolTip": "TestPEPRN\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T16:37:04.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "TestPEPRN\\DetailWindow.xaml",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN\\DetailWindow.xaml",
+              "RelativeToolTip": "TestPEPRN\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T17:03:30.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN.BLL\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "TestPEPRN.BLL\\Services\\SupplierService.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN.BLL\\Services\\SupplierService.cs",
+              "RelativeToolTip": "TestPEPRN.BLL\\Services\\SupplierService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T09:40:14.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TestPEPRN\\DetailWindow.xaml.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "TestPEPRN\\DetailWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA5wDAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:07:30.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AirConditionerShop2024DbContext.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\Models\\AirConditionerShop2024DbContext.cs",
+              "RelativeDocumentMoniker": "TestPEPRN.DAL\\Models\\AirConditionerShop2024DbContext.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\Models\\AirConditionerShop2024DbContext.cs",
+              "RelativeToolTip": "TestPEPRN.DAL\\Models\\AirConditionerShop2024DbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:06:57.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\Repositories\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "TestPEPRN.DAL\\Repositories\\SupplierRepository.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\Repositories\\SupplierRepository.cs",
+              "RelativeToolTip": "TestPEPRN.DAL\\Repositories\\SupplierRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T09:35:37.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN\\App.xaml",
+              "RelativeDocumentMoniker": "TestPEPRN\\App.xaml",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN\\App.xaml",
+              "RelativeToolTip": "TestPEPRN\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T17:07:35.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StaffMember.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\Models\\StaffMember.cs",
+              "RelativeDocumentMoniker": "TestPEPRN.DAL\\Models\\StaffMember.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\Models\\StaffMember.cs",
+              "RelativeToolTip": "TestPEPRN.DAL\\Models\\StaffMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T14:17:41.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "TestPEPRN.DAL\\Repositories\\MemberRepository.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "TestPEPRN.DAL\\Repositories\\MemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T14:23:13.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN.BLL\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "TestPEPRN.BLL\\Services\\MemberService.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN.BLL\\Services\\MemberService.cs",
+              "RelativeToolTip": "TestPEPRN.BLL\\Services\\MemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T14:23:33.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN\\appsettings.json",
+              "RelativeDocumentMoniker": "TestPEPRN\\appsettings.json",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN\\appsettings.json",
+              "RelativeToolTip": "TestPEPRN\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T16:55:42.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TestPEPRN\\App.xaml.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN\\App.xaml.cs",
+              "RelativeToolTip": "TestPEPRN\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T10:39:55.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TestPEPRN.DAL.csproj",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\TestPEPRN.DAL.csproj",
+              "RelativeDocumentMoniker": "TestPEPRN.DAL\\TestPEPRN.DAL.csproj",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\TestPEPRN.DAL.csproj",
+              "RelativeToolTip": "TestPEPRN.DAL\\TestPEPRN.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T18:54:55.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TestPEPRN.csproj",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN\\TestPEPRN.csproj",
+              "RelativeDocumentMoniker": "TestPEPRN\\TestPEPRN.csproj",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN\\TestPEPRN.csproj",
+              "RelativeToolTip": "TestPEPRN\\TestPEPRN.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T16:50:25.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "TestPEPRN.DAL\\Class1.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN.DAL\\Class1.cs",
+              "RelativeToolTip": "TestPEPRN.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:46:56.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TestPEPRN\\AssemblyInfo.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN\\AssemblyInfo.cs",
+              "RelativeToolTip": "TestPEPRN\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:10:49.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\CODE\\TestPEPRN\\TestPEPRN.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "TestPEPRN.BLL\\Class1.cs",
+              "ToolTip": "D:\\CODE\\TestPEPRN\\TestPEPRN.BLL\\Class1.cs",
+              "RelativeToolTip": "TestPEPRN.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T16:46:03.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

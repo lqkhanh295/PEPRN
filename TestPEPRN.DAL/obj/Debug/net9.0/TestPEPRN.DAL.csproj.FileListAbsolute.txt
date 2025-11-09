@@ -1,0 +1,14 @@
+D:\CODE\TestPEPRN\TestPEPRN.DAL\bin\Debug\net9.0\TestPEPRN.DAL.deps.json
+D:\CODE\TestPEPRN\TestPEPRN.DAL\bin\Debug\net9.0\TestPEPRN.DAL.dll
+D:\CODE\TestPEPRN\TestPEPRN.DAL\bin\Debug\net9.0\TestPEPRN.DAL.pdb
+D:\CODE\TestPEPRN\TestPEPRN.DAL\obj\Debug\net9.0\TestPEPRN.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\TestPEPRN\TestPEPRN.DAL\obj\Debug\net9.0\TestPEPRN.DAL.AssemblyInfoInputs.cache
+D:\CODE\TestPEPRN\TestPEPRN.DAL\obj\Debug\net9.0\TestPEPRN.DAL.AssemblyInfo.cs
+D:\CODE\TestPEPRN\TestPEPRN.DAL\obj\Debug\net9.0\TestPEPRN.DAL.csproj.CoreCompileInputs.cache
+D:\CODE\TestPEPRN\TestPEPRN.DAL\obj\Debug\net9.0\TestPEPRN.DAL.dll
+D:\CODE\TestPEPRN\TestPEPRN.DAL\obj\Debug\net9.0\refint\TestPEPRN.DAL.dll
+D:\CODE\TestPEPRN\TestPEPRN.DAL\obj\Debug\net9.0\TestPEPRN.DAL.pdb
+D:\CODE\TestPEPRN\TestPEPRN.DAL\obj\Debug\net9.0\ref\TestPEPRN.DAL.dll
+D:\CODE\TestPEPRN\TestPEPRN.DAL\obj\Debug\net9.0\TestPEPRN.DAL.csproj.AssemblyReference.cache
+D:\CODE\TestPEPRN\TestPEPRN.DAL\bin\Debug\net9.0\TestPEPRN.DAL.runtimeconfig.json
+D:\CODE\TestPEPRN\TestPEPRN.DAL\obj\Debug\net9.0\TestPEPRN.DAL.genruntimeconfig.cache

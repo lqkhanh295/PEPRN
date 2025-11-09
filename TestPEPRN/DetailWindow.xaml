@@ -1,0 +1,30 @@
+﻿<Window x:Class="TestPEPRN.DetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestPEPRN"
+        mc:Ignorable="d"
+        Title="Air Cond Detail" Height="450" Width="800" Background="#FFD4F7D4" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Grid>
+        <Label x:Name="DetailWindowLabel" Content="Thêm thông tin chỉnh sửa máy lạnhh" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Air Con ID" HorizontalAlignment="Left" Margin="40,78,0,0" VerticalAlignment="Top"/>
+        <Label Content="Air Con Name" HorizontalAlignment="Left" Margin="40,112,0,0" VerticalAlignment="Top"/>
+        <Label Content="Warranty" HorizontalAlignment="Left" Margin="40,146,0,0" VerticalAlignment="Top"/>
+        <Label Content="Sound Level" HorizontalAlignment="Left" Margin="40,180,0,0" VerticalAlignment="Top"/>
+        <Label Content="Feature Function" HorizontalAlignment="Left" Margin="40,209,0,0" VerticalAlignment="Top"/>
+        <Label Content="Quantity" HorizontalAlignment="Left" Margin="45,243,0,0" VerticalAlignment="Top"/>
+        <Label Content="Price" HorizontalAlignment="Left" Margin="333,243,0,0" VerticalAlignment="Top"/>
+        <Label Content="Supplier ID" HorizontalAlignment="Left" Margin="44,288,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="SupplierIDComboBox" HorizontalAlignment="Left" Margin="141,292,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="AirConditionerIDTextBox" HorizontalAlignment="Left" Margin="123,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="AirConditionerNameTextBox" HorizontalAlignment="Left" Margin="147,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="WarrantyTextBox" HorizontalAlignment="Left" Margin="123,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="SoundLevelTextBox" HorizontalAlignment="Left" Margin="136,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="FeatureFunctionTextBox" HorizontalAlignment="Left" Margin="166,214,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="QuantityTextBox" HorizontalAlignment="Left" Margin="123,248,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="84"/>
+        <TextBox x:Name="PriceTextBox" HorizontalAlignment="Left" Margin="380,248,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="101"/>
+        <Button x:Name="SaveButton" Content="Save Air Con" HorizontalAlignment="Left" Margin="619,94,0,0" VerticalAlignment="Top" Click="SaveButton_Click"/>
+        <Button x:Name="CloseButton" Content="Close" HorizontalAlignment="Left" Margin="619,134,0,0" VerticalAlignment="Top" Click="CloseButton_Click"/>
+    </Grid>
+</Window>

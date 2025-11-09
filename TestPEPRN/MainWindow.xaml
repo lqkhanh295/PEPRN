@@ -1,0 +1,35 @@
+﻿<Window x:Class="TestPEPRN.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestPEPRN"
+        mc:Ignorable="d"
+        Title="Thế giới điện tử xứ F" Height="548" Width="1000" FontFamily="Arial" FontSize="14" Background="#FFD4F7D4" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Margin="0,0,0,37">
+        <DataGrid x:Name="AirConsDataGrid" Margin="10,161,200,93" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <!--Ta đang định nghĩa các cột của table với độ rộng và tên gọi theo ý của ta. Auto = True tự map tên cột DB -->
+                <DataGridTextColumn Header="ID" Width="40" Binding="{Binding AirConditionerId}"/>
+                <DataGridTextColumn Header="Name" Width="140" Binding="{Binding AirConditionerName}"/>
+                <DataGridTextColumn Header="Warranty" Width="70" Binding="{Binding Warranty}"/>
+                <DataGridTextColumn Header="Sound Level" Width="70" Binding="{Binding SoundPressureLevel}"/>
+                <DataGridTextColumn Header="Feature Function" Width="70" Binding="{Binding FeatureFunction}"/>
+                <DataGridTextColumn Header="Quantity" Width="70" Binding="{Binding Quantity}"/>
+                <DataGridTextColumn Header="Price" Width="70" Binding="{Binding DollarPrice}"/>
+                <DataGridTextColumn Header="SupplierID" Width="70" Binding="{Binding SupplierId}"/>
+                <DataGridTextColumn Header="Suppliername" Width="70" Binding="{Binding Supplier.SupplierName}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="CreateButtonClick" Content="Create Air Con" HorizontalAlignment="Left" Margin="845,164,0,0" VerticalAlignment="Top" Width="105" Click="CreateButtonClick_Click"/>
+        <Button x:Name="UpdateButtonClick" Content="Update Air Con" HorizontalAlignment="Left" Margin="845,189,0,0" VerticalAlignment="Top" Click="UpdateButtonClick_Click"/>
+        <Button x:Name="DeleteButtonClick" Content="Delete Air Con" HorizontalAlignment="Left" Margin="845,214,0,0" VerticalAlignment="Top" Width="105" Click="DeleteButtonClick_Click"/>
+        <Button x:Name="SearchButtonClick" Content="Search Air Con" HorizontalAlignment="Left" Margin="10,122,0,0" VerticalAlignment="Top" Click="SearchButtonClick_Click"/>
+        <Label Content="Feature Function:" HorizontalAlignment="Left" Margin="143,124,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="FunctionTextbox" HorizontalAlignment="Left" Margin="272,128,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Label Content="Quantity:" HorizontalAlignment="Left" Margin="397,124,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="QuantityTextbox" HorizontalAlignment="Left" Margin="470,128,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="QuitButtonClick" Content="Quit" HorizontalAlignment="Left" Margin="845,239,0,0" VerticalAlignment="Top" Width="105" Click="QuitButtonClick_Click" />
+
+    </Grid>
+</Window>

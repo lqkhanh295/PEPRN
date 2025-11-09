@@ -1,0 +1,15 @@
+D:\CODE\TestPEPRN\TestPEPRN.BLL\bin\Debug\net9.0\TestPEPRN.BLL.deps.json
+D:\CODE\TestPEPRN\TestPEPRN.BLL\bin\Debug\net9.0\TestPEPRN.BLL.dll
+D:\CODE\TestPEPRN\TestPEPRN.BLL\bin\Debug\net9.0\TestPEPRN.BLL.pdb
+D:\CODE\TestPEPRN\TestPEPRN.BLL\bin\Debug\net9.0\TestPEPRN.DAL.dll
+D:\CODE\TestPEPRN\TestPEPRN.BLL\bin\Debug\net9.0\TestPEPRN.DAL.pdb
+D:\CODE\TestPEPRN\TestPEPRN.BLL\obj\Debug\net9.0\TestPEPRN.BLL.csproj.AssemblyReference.cache
+D:\CODE\TestPEPRN\TestPEPRN.BLL\obj\Debug\net9.0\TestPEPRN.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\TestPEPRN\TestPEPRN.BLL\obj\Debug\net9.0\TestPEPRN.BLL.AssemblyInfoInputs.cache
+D:\CODE\TestPEPRN\TestPEPRN.BLL\obj\Debug\net9.0\TestPEPRN.BLL.AssemblyInfo.cs
+D:\CODE\TestPEPRN\TestPEPRN.BLL\obj\Debug\net9.0\TestPEPRN.BLL.csproj.CoreCompileInputs.cache
+D:\CODE\TestPEPRN\TestPEPRN.BLL\obj\Debug\net9.0\TestPEPR.D3635939.Up2Date
+D:\CODE\TestPEPRN\TestPEPRN.BLL\obj\Debug\net9.0\TestPEPRN.BLL.dll
+D:\CODE\TestPEPRN\TestPEPRN.BLL\obj\Debug\net9.0\refint\TestPEPRN.BLL.dll
+D:\CODE\TestPEPRN\TestPEPRN.BLL\obj\Debug\net9.0\TestPEPRN.BLL.pdb
+D:\CODE\TestPEPRN\TestPEPRN.BLL\obj\Debug\net9.0\ref\TestPEPRN.BLL.dll
